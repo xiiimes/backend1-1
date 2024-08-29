@@ -1,6 +1,7 @@
 package notasjava;
 
-public class Operator {
+public class Operator{};
+      /*
         public static void main(String[] args) {
             //aritmeticos (+,-,/,*,%)
 
@@ -19,5 +20,5 @@ public class Operator {
 
         }
     }
-
+ */
 
