@@ -1,5 +1,5 @@
 package tiendapoo;
 
-public class Product {
+public class product {
 
 }

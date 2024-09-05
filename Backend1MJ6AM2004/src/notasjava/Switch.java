@@ -7,9 +7,11 @@ public class Switch {
     static float profit;
     static double price;
     static Scanner  sc = new Scanner(System.in);
+
     public static void main(String[] args) {
     menu();
     }
+
     public static void createProduct(){
         String[] product = new String[5];
 
